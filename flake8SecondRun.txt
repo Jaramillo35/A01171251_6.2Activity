@@ -1,0 +1,3 @@
+Reservations.py:3:80: E501 line too long (87 > 79 characters)
+Reservations.py:4:80: E501 line too long (85 > 79 characters)
+Reservations.py:211:80: E501 line too long (83 > 79 characters)

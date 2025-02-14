@@ -1,0 +1,17 @@
+{
+    "d68fdd13-d5fb-44c2-b285-e5ed18db913d": {
+        "reservation_id": "d68fdd13-d5fb-44c2-b285-e5ed18db913d",
+        "customer_id": "3d8a6250-f9db-4531-a0bb-51a4172e972c",
+        "hotel_id": "d3ce3995-b738-46df-b990-ea7f2b58460f"
+    },
+    "0b3c101b-6516-4ab9-9625-b0ce3cb90a00": {
+        "reservation_id": "0b3c101b-6516-4ab9-9625-b0ce3cb90a00",
+        "customer_id": "b8408d24-9692-4c72-8419-73aa8b18c08e",
+        "hotel_id": "0fddd5a6-9bb7-4252-b62b-0d8ea6395f69"
+    },
+    "4e5033aa-17c9-422a-931f-7f8b6bb968c6": {
+        "reservation_id": "4e5033aa-17c9-422a-931f-7f8b6bb968c6",
+        "customer_id": "f2bd1002-af58-4191-ae30-637b5ab3fe4d",
+        "hotel_id": "6fff7484-8e07-47a1-87d6-ab5ac8c32a5e"
+    }
+}

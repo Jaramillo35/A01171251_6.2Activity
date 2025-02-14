@@ -1,0 +1,128 @@
+{
+    "f01651c0-a2b3-46f6-892b-1f8025da0ea1": {
+        "hotel_id": "f01651c0-a2b3-46f6-892b-1f8025da0ea1",
+        "name": "Cancel Hotel",
+        "location": "Miami",
+        "rooms": 2,
+        "available_rooms": 2
+    },
+    "7238c905-9c94-4888-8e8f-04920d740c34": {
+        "hotel_id": "7238c905-9c94-4888-8e8f-04920d740c34",
+        "name": "The Martian",
+        "location": "BALI",
+        "rooms": 10,
+        "available_rooms": 10
+    },
+    "d3ce3995-b738-46df-b990-ea7f2b58460f": {
+        "hotel_id": "d3ce3995-b738-46df-b990-ea7f2b58460f",
+        "name": "Loews",
+        "location": "Chicago",
+        "rooms": 3,
+        "available_rooms": 2
+    },
+    "705e10ce-7865-40b4-8a16-8f25f3cc879a": {
+        "hotel_id": "705e10ce-7865-40b4-8a16-8f25f3cc879a",
+        "name": "Cancel Hotel",
+        "location": "Miami",
+        "rooms": 2,
+        "available_rooms": 2
+    },
+    "6841c5c3-805b-4f35-8f5c-cfe9c021be21": {
+        "hotel_id": "6841c5c3-805b-4f35-8f5c-cfe9c021be21",
+        "name": "Test Hotel",
+        "location": "NYC",
+        "rooms": 10,
+        "available_rooms": 10
+    },
+    "0fddd5a6-9bb7-4252-b62b-0d8ea6395f69": {
+        "hotel_id": "0fddd5a6-9bb7-4252-b62b-0d8ea6395f69",
+        "name": "Reserve Hotel",
+        "location": "Chicago",
+        "rooms": 3,
+        "available_rooms": 2
+    },
+    "3d64132b-f2ad-40a3-82b3-894da2f0b5b8": {
+        "hotel_id": "3d64132b-f2ad-40a3-82b3-894da2f0b5b8",
+        "name": "Cancel Hotel",
+        "location": "Miami",
+        "rooms": 2,
+        "available_rooms": 2
+    },
+    "bfd2eb34-3a30-4b99-9d7f-2115fe158314": {
+        "hotel_id": "bfd2eb34-3a30-4b99-9d7f-2115fe158314",
+        "name": "Test Hotel",
+        "location": "NYC",
+        "rooms": 10,
+        "available_rooms": 10
+    },
+    "a20174a8-60cc-4361-8ce4-9f7f346f69cd": {
+        "hotel_id": "a20174a8-60cc-4361-8ce4-9f7f346f69cd",
+        "name": "Reserve Hotel",
+        "location": "Chicago",
+        "rooms": 3,
+        "available_rooms": 3
+    },
+    "b5e71deb-5e21-4a15-ae78-0baa076b004a": {
+        "hotel_id": "b5e71deb-5e21-4a15-ae78-0baa076b004a",
+        "name": "Cancel Hotel",
+        "location": "Miami",
+        "rooms": 2,
+        "available_rooms": 2
+    },
+    "2a4ed1a3-af01-408d-8cca-14fd0370669c": {
+        "hotel_id": "2a4ed1a3-af01-408d-8cca-14fd0370669c",
+        "name": "Test Hotel",
+        "location": "NYC",
+        "rooms": 10,
+        "available_rooms": 10
+    },
+    "a351b4cc-39d1-47de-9011-0a9ef2139665": {
+        "hotel_id": "a351b4cc-39d1-47de-9011-0a9ef2139665",
+        "name": "Reserve Hotel",
+        "location": "Chicago",
+        "rooms": 3,
+        "available_rooms": 3
+    },
+    "f1fa3bbd-ef34-4d16-bfd2-f9eb90b68561": {
+        "hotel_id": "f1fa3bbd-ef34-4d16-bfd2-f9eb90b68561",
+        "name": "Cancel Hotel",
+        "location": "Miami",
+        "rooms": 2,
+        "available_rooms": 2
+    },
+    "68041edc-770c-4a90-a249-2cb2f971db66": {
+        "hotel_id": "68041edc-770c-4a90-a249-2cb2f971db66",
+        "name": "CERN",
+        "location": "SWITZERLAND",
+        "rooms": 7,
+        "available_rooms": 7
+    },
+    "85a255a6-6ece-46a0-a4b8-17f09c4627be": {
+        "hotel_id": "85a255a6-6ece-46a0-a4b8-17f09c4627be",
+        "name": "Reserve Hotel",
+        "location": "Chicago",
+        "rooms": 3,
+        "available_rooms": 3
+    },
+    "dea6270c-97d6-4a4f-b93f-777de90df5d5": {
+        "hotel_id": "dea6270c-97d6-4a4f-b93f-777de90df5d5",
+        "name": "Cancel Hotel",
+        "location": "Miami",
+        "rooms": 2,
+        "available_rooms": 2
+    },
+    "dd61d8ea-0b94-4b1b-956e-598b8b51755d": {
+        "hotel_id": "dd61d8ea-0b94-4b1b-956e-598b8b51755d",
+        "name": "Test Hotel",
+        "location": "NYC",
+        "rooms": 10,
+        "available_rooms": 10
+    },
+    "6fff7484-8e07-47a1-87d6-ab5ac8c32a5e": {
+        "hotel_id": "6fff7484-8e07-47a1-87d6-ab5ac8c32a5e",
+        "name": "Reserve Hotel",
+        "location": "Chicago",
+        "rooms": 3,
+        "available_rooms": 2
+    }
+}

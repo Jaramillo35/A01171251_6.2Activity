@@ -1,0 +1,13 @@
+************* Module Reservations
+Reservations.py:1:0: C0103: Module name "Reservations" doesn't conform to snake_case naming style (invalid-name)
+Reservations.py:170:0: C0115: Missing class docstring (missing-class-docstring)
+Reservations.py:171:4: C0116: Missing function or method docstring (missing-function-docstring)
+Reservations.py:175:4: C0116: Missing function or method docstring (missing-function-docstring)
+Reservations.py:179:4: C0116: Missing function or method docstring (missing-function-docstring)
+Reservations.py:183:4: C0116: Missing function or method docstring (missing-function-docstring)
+Reservations.py:187:4: C0116: Missing function or method docstring (missing-function-docstring)
+Reservations.py:194:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.34/10 (previous run: 9.34/10, +0.00)
+

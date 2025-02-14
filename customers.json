@@ -1,0 +1,92 @@
+{
+    "9b9335de-ba95-4d69-87ca-3b6388e6f6c1": {
+        "customer_id": "9b9335de-ba95-4d69-87ca-3b6388e6f6c1",
+        "name": "Bob",
+        "email": "bob@hotmail.com"
+    },
+    "b5eac505-c45f-4e4b-bc3c-43248f329e98": {
+        "customer_id": "b5eac505-c45f-4e4b-bc3c-43248f329e98",
+        "name": "Juan Perez",
+        "email": "perez@hotmail.com"
+    },
+    "3d8a6250-f9db-4531-a0bb-51a4172e972c": {
+        "customer_id": "3d8a6250-f9db-4531-a0bb-51a4172e972c",
+        "name": "Alice",
+        "email": "kristin@hotmail.com"
+    },
+    "7d9db090-eb47-4242-bddd-c2ceba572c26": {
+        "customer_id": "7d9db090-eb47-4242-bddd-c2ceba572c26",
+        "name": "Bob",
+        "email": "bob@example.com"
+    },
+    "1cd883d2-e6b4-41e8-bcc4-61c25696e1f4": {
+        "customer_id": "1cd883d2-e6b4-41e8-bcc4-61c25696e1f4",
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "b8408d24-9692-4c72-8419-73aa8b18c08e": {
+        "customer_id": "b8408d24-9692-4c72-8419-73aa8b18c08e",
+        "name": "Alice",
+        "email": "alice@example.com"
+    },
+    "64607b51-40c2-4dc0-aa53-475b8c8ead41": {
+        "customer_id": "64607b51-40c2-4dc0-aa53-475b8c8ead41",
+        "name": "Bob",
+        "email": "bob@example.com"
+    },
+    "4bf93900-737e-4532-a25f-6f059bb0ed90": {
+        "customer_id": "4bf93900-737e-4532-a25f-6f059bb0ed90",
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "82d3d05c-2aa3-4e49-9073-ac33cf666c99": {
+        "customer_id": "82d3d05c-2aa3-4e49-9073-ac33cf666c99",
+        "name": "Alice",
+        "email": "alice@example.com"
+    },
+    "76b48977-9090-4456-966a-2f7a083b454c": {
+        "customer_id": "76b48977-9090-4456-966a-2f7a083b454c",
+        "name": "Bob",
+        "email": "bob@example.com"
+    },
+    "53dd80b0-a47e-4de9-9ecb-bcc3e83d7e97": {
+        "customer_id": "53dd80b0-a47e-4de9-9ecb-bcc3e83d7e97",
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "6fbd607d-309f-454b-94e2-4efa9a3e3ebd": {
+        "customer_id": "6fbd607d-309f-454b-94e2-4efa9a3e3ebd",
+        "name": "Alice",
+        "email": "alice@example.com"
+    },
+    "de0767ff-4f38-44a3-876b-012493445a0a": {
+        "customer_id": "de0767ff-4f38-44a3-876b-012493445a0a",
+        "name": "Jorge",
+        "email": "jorge@hotmail.com"
+    },
+    "cc224972-59d2-45e2-b311-b0a143d39c21": {
+        "customer_id": "cc224972-59d2-45e2-b311-b0a143d39c21",
+        "name": "El brayan",
+        "email": "brayan@hotmail.com"
+    },
+    "3d6bb431-18e7-43df-bd47-bad7a4b627c7": {
+        "customer_id": "3d6bb431-18e7-43df-bd47-bad7a4b627c7",
+        "name": "Alicia",
+        "email": "alicia@hotmail.com"
+    },
+    "b3406bd7-f05e-4f12-afcd-1f176665a719": {
+        "customer_id": "b3406bd7-f05e-4f12-afcd-1f176665a719",
+        "name": "Bob",
+        "email": "bob@example.com"
+    },
+    "ba770809-7492-4045-8696-ec8ac063cae0": {
+        "customer_id": "ba770809-7492-4045-8696-ec8ac063cae0",
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "f2bd1002-af58-4191-ae30-637b5ab3fe4d": {
+        "customer_id": "f2bd1002-af58-4191-ae30-637b5ab3fe4d",
+        "name": "Alice",
+        "email": "alice@example.com"
+    }
+}
